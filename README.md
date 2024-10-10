@@ -2,15 +2,16 @@
 Razer Synapse 4 Loader - Designed for Diskless System
 
 ## Fitur
-[-] Menjalankan Razer Synapse 4 tanpa perlu install dan superuser di client
-[-] Pre-configured settings
+- Menjalankan Razer Synapse 4 tanpa perlu install dan superuser di client
+- Pre-configured settings
 
 ## Pre-Configured
-[-] Disable startup
-[-] Disable Recomended Settings
+- Disable startup
+- Disable Recomended Settings
+- Disable notification
 
 ## Pre-Downloaded Profiles/Resources
-[-] Razer DeathAdder Essential
+- Razer DeathAdder Essential
 
 ## Thanks to
 - Allah SWT
